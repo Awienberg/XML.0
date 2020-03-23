@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cats>
+    <cat>
+        <name>Ronald Meowsly</name>
+        <age>3</age>
+        <likes>To eat plants</likes>
+        <hates>dogs</hates>
+    </cat>
+</cats>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<breakfast>
-    <food>
-        <name>Pancakes</name>
-        <price>$5.95</price>
-        <description>Pancakes with plenty of Peanut Butter, topped with bananas and blueberries</description>
-        <calories>500</calories>
-    </food>
-</breakfast>
