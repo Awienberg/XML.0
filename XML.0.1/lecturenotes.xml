@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notes>
+    <note>
+        <course>Data Integration</course>
+        <subject>Introduction to XML</subject>
+        <date>23-03-2020</date>
+        <content>
+            XML stands for Extensible Markup Language.
+            XML is a markup language much like HTML.
+            XML was designed to carry data.
+            XML tags are not predefined like HTML tags.
+            If you need a new element you just invent it, and use it. We are our own bosses here.
+        </content>
+    </note>
+
+    <note>
+        <course>Security</course>
+        <subject>Data Security</subject>
+        <date>24-03-2020</date>
+        <content>
+            More to come..
+        </content>
+    </note>
+</notes>
