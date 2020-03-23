@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<languages>
+    <language>
+        <countrycode>ABW</countrycode>
+        <language>Dutch</language>
+        <isofficial>T</isofficial>
+        <percentage>5.3</percentage>
+    </language>
+
+    <language>
+        <countrycode>AUS</countrycode>
+        <language>Canton Chinese</language>
+        <isofficial>F</isofficial>
+        <percentage>1.1</percentage>
+    </language>
+
+    <language>
+        <countrycode>ARG</countrycode>
+        <language>Italian</language>
+        <isofficial>F</isofficial>
+        <percentage>1.7</percentage>
+    </language>
+</languages>

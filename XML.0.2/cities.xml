@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cities>
+    <city>
+        <oldid>5</oldid>
+        <name>Amsterdam</name>
+        <countrycode>NLD</countrycode>
+        <district>Noord-Holland</district>
+        <population>731200</population>
+    </city>
+
+    <city>
+        <oldid>6</oldid>
+        <name>Rotterdam</name>
+        <countrycode>NLD</countrycode>
+        <district>Zuid-Holland</district>
+        <population>593321</population>
+    </city>
+
+    <city>
+        <oldid>38</oldid>
+        <name>Annaba</name>
+        <countrycode>DZA</countrycode>
+        <district>Annaba</district>
+        <population>222518</population>
+    </city>
+</cities>

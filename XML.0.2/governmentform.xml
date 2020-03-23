@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<governmentforms>
+    <governmentform>
+        <name>Parlementary Monarchy</name>
+    </governmentform>
+
+    <governmentform>
+        <name>Socialistic State</name>
+    </governmentform>
+
+    <governmentform>
+        <name>Commonwealth of the US</name>
+    </governmentform>
+
+    <governmentform>
+        <name>Constitutional Monarchy</name>
+    </governmentform>
+
+    <governmentform>
+        <name>Socialistic Republic</name>
+    </governmentform>
+</governmentforms>

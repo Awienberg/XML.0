@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<countries>
+    <country>
+        <code>ARM</code>
+        <name>Armenia</name>
+        <continent>Asia</continent>
+        <region>Middle East</region>
+        <surfacearea>29800</surfacearea>
+        <indepyear>1991</indepyear>
+        <population>3520000</population>
+        <lifeexpectancy>66.4</lifeexpectancy>
+        <gnp>1813</gnp>
+        <gnpold>1627</gnpold>
+        <localname>Hajastan</localname>
+        <governmentform>Republic</governmentform>
+        <headofstate>Robert Kotsarjan</headofstate>
+        <capital>126</capital>
+        <code2>AM</code2>
+    </country>
+
+    <country>
+        <code>ATG</code>
+        <name>Antiqua and Barbuda</name>
+        <continent>Nort america</continent>
+        <region>Caribbean</region>
+        <surfacearea>442</surfacearea>
+        <indepyear>1981</indepyear>
+        <population>68000</population>
+        <lifeexpectancy>70.5</lifeexpectancy>
+        <gnp>612</gnp>
+        <gnpold>584</gnpold>
+        <localname>Antiqua and Barbuda</localname>
+        <governmentform>Constitutional Monarchy</governmentform>
+        <headofstate>Elisabeth II</headofstate>
+        <capital>63</capital>
+        <code2>AG</code2>
+    </country>
+
+    <country>
+        <code>BHS</code>
+        <name>Bahamas</name>
+        <continent>Nort america</continent>
+        <region>Caribbean</region>
+        <surfacearea>13878</surfacearea>
+        <indepyear>1973</indepyear>
+        <population>307000</population>
+        <lifeexpectancy>71.1</lifeexpectancy>
+        <gnp>3527</gnp>
+        <gnpold>3347</gnpold>
+        <localname>The Bahamas</localname>
+        <governmentform>Consttutional Monarchy</governmentform>
+        <headofstate>Elisabeth II</headofstate>
+        <capital>148</capital>
+        <code2>BS</code2>
+    </country>
+</countries>
